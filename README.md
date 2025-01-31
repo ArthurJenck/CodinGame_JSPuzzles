@@ -28,3 +28,7 @@ https://www.codingame.com/training/easy/mars-lander-episode-1
 ### Ascii Art
 
 https://www.codingame.com/training/easy/ascii-art
+
+### Unary
+
+https://www.codingame.com/training/easy/unary

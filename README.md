@@ -20,3 +20,7 @@ https://www.codingame.com/training/easy/power-of-thor-episode-1
 ### Temperatures
 
 https://www.codingame.com/training/easy/temperatures
+
+### Mars Lander Ep1
+
+https://github.com/ArthurJenck/CodinGame_MarsLanderEp1

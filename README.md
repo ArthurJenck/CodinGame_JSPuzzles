@@ -23,4 +23,8 @@ https://www.codingame.com/training/easy/temperatures
 
 ### Mars Lander Ep1
 
-https://github.com/ArthurJenck/CodinGame_MarsLanderEp1
+https://www.codingame.com/training/easy/mars-lander-episode-1
+
+### Ascii Art
+
+https://www.codingame.com/training/easy/ascii-art

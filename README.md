@@ -3,14 +3,20 @@
 Tous les puzzles sont en JavaScript.  
 Hub CodinGame des puzzles : https://www.codingame.com/training/
 
-## The Descent
+## Faciles
+
+### The Descent
 
 https://www.codingame.com/training/easy/the-descent
 
-## Onboarding
+### Onboarding
 
 https://www.codingame.com/training/easy/onboarding/
 
-## Power of Thor Ep1
+### Power of Thor Ep1
 
 https://www.codingame.com/training/easy/power-of-thor-episode-1
+
+### Temperatures
+
+https://www.codingame.com/training/easy/temperatures

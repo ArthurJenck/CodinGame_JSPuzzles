@@ -32,3 +32,11 @@ https://www.codingame.com/training/easy/ascii-art
 ### Unary
 
 https://www.codingame.com/training/easy/unary
+
+### Mime Type
+
+https://www.codingame.com/training/easy/mime-type
+
+### Card Counting when easily distracted
+
+https://www.codingame.com/training/easy/card-counting-when-easily-distracted

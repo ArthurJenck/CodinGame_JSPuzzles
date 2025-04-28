@@ -43,4 +43,4 @@ https://www.codingame.com/training/easy/card-counting-when-easily-distracted
 
 ### Défibrillateurs
 
-https://www.codingame.com/ide/puzzle/defibrillators
+https://www.codingame.com/training/easy/defibrillators

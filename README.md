@@ -44,3 +44,7 @@ https://www.codingame.com/training/easy/card-counting-when-easily-distracted
 ### Défibrillateurs
 
 https://www.codingame.com/training/easy/defibrillators
+
+### Chevaux de course
+
+https://www.codingame.com/ide/puzzle/horse-racing-duals

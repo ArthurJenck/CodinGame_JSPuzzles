@@ -48,3 +48,7 @@ https://www.codingame.com/training/easy/defibrillators
 ### Chevaux de course
 
 https://www.codingame.com/ide/puzzle/horse-racing-duals
+
+### Logic Gates
+
+https://www.codingame.com/training/easy/logic-gates

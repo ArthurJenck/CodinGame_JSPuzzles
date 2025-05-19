@@ -47,8 +47,12 @@ https://www.codingame.com/training/easy/defibrillators
 
 ### Chevaux de course
 
-https://www.codingame.com/ide/puzzle/horse-racing-duals
+https://www.codingame.com/training/easy/horse-racing-duals
 
 ### Logic Gates
 
 https://www.codingame.com/training/easy/logic-gates
+
+### Sum of Spiral's Diagonals
+
+https://www.codingame.com/training/easy/sum-of-spirals-diagonals

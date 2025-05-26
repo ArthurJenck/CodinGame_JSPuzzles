@@ -56,3 +56,7 @@ https://www.codingame.com/training/easy/logic-gates
 ### Sum of Spiral's Diagonals
 
 https://www.codingame.com/training/easy/sum-of-spirals-diagonals
+
+### Island Escape
+
+https://www.codingame.com/training/easy/island-escape

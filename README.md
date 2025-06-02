@@ -60,3 +60,7 @@ https://www.codingame.com/training/easy/sum-of-spirals-diagonals
 ### Island Escape
 
 https://www.codingame.com/training/easy/island-escape
+
+### There is no Spoon Ep1
+
+https://www.codingame.com/training/easy/there-is-no-spoon-episode-1

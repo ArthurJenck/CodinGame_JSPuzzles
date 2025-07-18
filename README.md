@@ -72,3 +72,7 @@ https://www.codingame.com/training/easy/there-is-no-spoon-episode-1
 ### Retro Typewriter Art
 
 https://www.codingame.com/training/easy/retro-typewriter-art
+
+### Playing Cards Odd
+
+https://www.codingame.com/training/easy/playing-card-odds
